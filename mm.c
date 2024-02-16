@@ -7,7 +7,7 @@
  * implemented directly using mm_malloc and mm_free.
  *
  * NOTE TO STUDENTS: Replace this header comment with your own header
- * comment that gives a high level description of your solution.
+ * comment that gives a high level description of your solution..
  */
 #include <stdio.h>
 #include <stdlib.h>
